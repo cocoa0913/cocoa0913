@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🧑‍💻 경력
-### 졸업작품 프로젝트 (0000.00 - 0000.00)
+### 졸업작품 프로젝트 (2025.03 - 2025.10)
 
 
 ## 🚀 포트폴리오
